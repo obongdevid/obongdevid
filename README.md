@@ -32,7 +32,7 @@ const Favour = {
 
 | Project | What it is | Link |
 |---|---|---|
-| **DietPadi** | Nutrition and healthcare platform. I built the backend and mobile app: appointment booking, video consultations, diet tracking, personalized diet plans, and Paystack billing (monthly, quarterly, yearly) | [dietpadi.com](https://dietpadi.com) |
+| **DietPadi** | Nutrition and healthcare platform. I built the backend and mobile app: appointment booking, video consultations, diet tracking, personalized diet plans, and Paystack billing (monthly, quarterly, yearly) | [dietpadi.com](https://dietpadi.com), [app.dietpadi.com](https://app.dietpadi.com) |
 | **EshSpeaks (Colouresh)** | Editorial publishing platform. I built the backend and the Paystack payments that unlock premium articles | [eshspeaks.netlify.app](https://eshspeaks.netlify.app) |
 | **Shoreline ERP** | Meal ordering and kitchen management system. I built the admin features for kitchens, meal options, and order tracking | [shoreline-demo.netlify.app](https://shoreline-demo.netlify.app) |
 
